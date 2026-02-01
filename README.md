@@ -58,8 +58,7 @@ We welcome contributors! Follow these steps to set up the project locally.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/bharat-shiksha-ai.git](https://github.com/your-username/bharat-shiksha-ai.git)
-    cd bharat-shiksha-ai
+    https://github.com/Git-Aayush-Kushwaha/EklavyaAI---Concept.git
     ```
 
 2.  **Backend Setup**
